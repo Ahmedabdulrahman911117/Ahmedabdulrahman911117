@@ -13,11 +13,11 @@
 
 
 
-- 🏢 **Mansoura University - Faculty of Engineering**
-- 👨‍💻 **Aspiring Computer and Control Systems Engineer**, currently studying frontend development through Almdrasa.
+- 🏢 ** Cairo University - Faculty of Graduate Studies for Statistical Research , Department of Computer Science**
+- 👨‍💻 **software engineer || Oracle EBS TECHNICAL Consaltant**, 
 - 💬 **Ask me about**:
-  - My experience with **Python, HTML, CSS, and C**
-  - **Smart Home** and **Sumo Robot** projects
+  - My experience with **ORACLE DEVELOPER :- SQL, PL/SQL,FORMS, and REPORT**
+  - **Oracle EBS  technical Consaltant || Oracle DEVELOPER**  
 - 🌟 **Current Project**: Pursuing a diploma in frontend development with a goal to specialize in React.
 - 🎯 **Career Goals**:
   - **Short-term**: Complete the frontend development diploma from Almdrasa.
