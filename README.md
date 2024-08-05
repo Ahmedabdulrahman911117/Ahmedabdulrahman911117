@@ -13,11 +13,11 @@
 
 
 
-- 🏢 ** Cairo University - Faculty of Graduate Studies for Statistical Research , Department of Computer Science**
-- 👨‍💻 **software Engineer and  Oracle EBS TECHNICAL Consaltant at El-oruba for food Industries**, 
+- 🏢 **Cairo University - Faculty of Graduate Studies for Statistical Research , Department of Computer Science**
+- 👨‍💻 **software Engineer and  Oracle EBS TECHNICAL consultant at El-Orouba for food Industries**, 
 - 💬 **Ask me about**:
-  - My experience with **ORACLE DEVELOPER :- SQL, PL/SQL,FORMS, and REPORT**
-  - **Oracle EBS  technical Consaltant || Oracle DEVELOPER**  
+  - **My experience with :-** **ORACLE DEVELOPER :- Forms and Report** ||**Oracle Ebs  Technical Consultant**
+
 
 - 📚 **Hobby**: I love reading books.
 - 🍵 **Fun Fact**: I love tea.
